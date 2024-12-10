@@ -1,0 +1,2 @@
+consule.log('test')
+
